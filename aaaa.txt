@@ -1,0 +1,11 @@
+nome usuario q está conversando
+162x45
+
+frame de conversa
+779x697
+
+foto do usuario
+207x167
+
+dar tchau e sair
+95x78
